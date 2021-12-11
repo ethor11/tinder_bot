@@ -1,3 +1,3 @@
 
-username = "ethornborough@yahoo.ca"
-password = "Placid812"
+username = "<YOUR LOGIN>"
+password = "<YOUR PASSWORD>"
